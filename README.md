@@ -1,5 +1,5 @@
 # CS50Android
-CS50 Android Track 2019
+CS50 Android Track 2019. Три приложения с использованием разных библиотек и паттернов.
 
 **CS50Example3_Pokedex** - Используя библиотеку Volley, взять данные с сайта https://pokeapi.co и отобразить информацию о покемонах в RecyclerView.
 
